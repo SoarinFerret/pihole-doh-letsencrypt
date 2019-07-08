@@ -15,7 +15,7 @@ The following items must be met:
 
 ```bash
 git clone https://github.com/SoarinFerret/pihole-doh-letsencrypt.git
-cd gitlab-dockercompose
+cd pihole-doh-letsencrypt
 ```
 
 ### 2. Copy and Edit the necessary files
